@@ -46,7 +46,7 @@
 💇 :haircut:	💅 :nail_care:	👦 :boy:
 👧 :girl:	👩 :woman:	👨 :man:
 👶 :baby:	👵 :older_woman:	👴 :older_man:
-:person_with_blond_hair: :person_with_blond_hair:	👲 :man_with_gua_pi_mao:	👳‍♂️ :man_with_turban:
+:	👲 :man_with_gua_pi_mao:	👳‍♂️ :man_with_turban:
 👷 :construction_worker:	👮 :cop:	👼 :angel:
 👸 :princess:	😺 :smiley_cat:	😸 :smile_cat:
 😻 :heart_eyes_cat:	😽 :kissing_cat:	😼 :smirk_cat:
